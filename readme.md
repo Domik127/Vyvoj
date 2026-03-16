@@ -37,3 +37,8 @@
     ahoj
     hkhk
     jghfhgf
+
+9. pro periodical push
+    git add .
+    git commit -m "treti commit"
+    git push -u origin main
